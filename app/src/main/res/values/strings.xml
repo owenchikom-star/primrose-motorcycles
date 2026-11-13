@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">primrose motorcycles</string>
+    <string name="app_title_primrose">Primrose Motorcycles</string>
+    <string name="branch_primrose">Branch: Primrose</string>
+
+    <!-- Common / Navigation -->
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="button_add">+ Add</string>
+
+    <!-- Job Card Form -->
+    <string name="new_job_card">New Job Card</string>
+    <string name="edit_job_card">Edit Job Card</string>
+    <string name="save_job_card">Save Job Card</string>
+    <string name="update_job_card">Update Job Card</string>
+    <string name="generate_pdf_share">Generate PDF &amp; Share</string>
+    <string name="create_quotation_from_job_card">Create Quotation from this Job Card</string>
+
+    <string name="section_customer">Customer</string>
+    <string name="label_customer_name">Customer Name/company *</string>
+    <string name="label_phone">Phone *</string>
+    <string name="label_driver_name">Driver Name</string>
+    <string name="label_driver_phone">Driver Phone</string>
+    <string name="label_address">Address</string>
+
+    <string name="section_bike">Bike</string>
+    <string name="label_reg_number">Reg Number *</string>
+    <string name="label_model">Model e.g. Yamaha R1 *</string>
+    <string name="label_color">Color e.g. Black / Red</string>
+    <string name="label_mileage">Mileage KM</string>
+    <string name="label_vin">VIN #</string>
+    <string name="label_eng">ENG #</string>
+
+    <string name="section_job_details">Job Details</string>
+    <string name="label_workshop_notes">Workshop Notes</string>
+    <string name="label_workshop_repairs">Workshop Repairs</string>
+    <string name="label_customer_instructions">Customer Instructions</string>
+    <string name="label_reported_issue">Reported Issue *</string>
+    <string name="label_technician">Technician</string>
+
+    <string name="section_customer_signature">Customer Signature</string>
+    <string name="clear_signature">Clear Signature</string>
+    <string name="sign_here">Sign Here</string>
+
+    <!-- Spares & Materials -->
+    <string name="section_spares_materials">SPARES &amp; MATERIALS</string>
+    <string name="button_add_spare">+ Add Spare</string>
+    <string name="no_spares_added">No spares added - Tap + Add Spare</string>
+    <string name="generate_requisition_pdf">Generate Requisition PDF &amp; Share</string>
+    <string name="add_spare_title">Add Spare</string>
+    <string name="edit_spare_title">Edit Spare</string>
+    <string name="label_spare_name">Spare Name * e.g. Brake Fluid</string>
+    <string name="label_part_number">Part Number e.g. BF-DOT4-1L</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_price">Price (R)</string>
+
+    <!-- Quotation -->
+    <string name="new_quotation">New Quotation</string>
+    <string name="autofilled_from_job_card">Auto-filled from Job Card: %1$s</string>
+    <string name="label_reference">Reference (e.g. 460500 S)</string>
+    <string name="label_sales_rep">Sales Rep</string>
+    <string name="label_stock_no">STOCK NO: 1043002175</string>
+    <string name="label_customer_notes">Customer Notes / Estimate Notes</string>
+    <string name="section_parts_labour">Parts &amp; Labour (%1$d)</string>
+    <string name="label_total_exclusive">Total Exclusive: R%1$s</string>
+    <string name="label_total_vat">Total VAT: R%1$s</string>
+    <string name="label_total_due">Total Due: R%1$s</string>
+    <string name="generate_quotation_pdf">Generate Quotation PDF (Like Photo)</string>
+    <string name="add_item_title">Add Item</string>
+    <string name="label_item_description">Description e.g. S1651033G10000 - FILTER OIL</string>
+    <string name="label_incl_price">Incl. Price e.g. 215</string>
+
+    <!-- Job Card List -->
+    <string name="search_placeholder">Search job cards...</string>
+    <string name="filter_all">All</string>
+    <string name="filter_open">Open (%1$d)</string>
+    <string name="filter_in_progress">In Progress (%1$d)</string>
+    <string name="filter_completed">Completed</string>
+    <string name="no_job_cards">No job cards found</string>
+    <string name="add_new_job_card">+ New Job Card</string>
+</resources>
