@@ -58,5 +58,7 @@ Built for small motorcycle workshops / mechanics.
 ### 💼 Want this for YOUR workshop?
 I can rebuild this with YOUR shop name, logo, and your own parts list.
 Perfect for: Bike workshops, Car mechanics, Panel beaters, Service centres.
+contact me: email; owenchikom@gmail.com / WhatsApp; +27835585938
+
 
 Connect with me on LinkedIn / Open an Issue here.
